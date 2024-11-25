@@ -3,6 +3,14 @@ span:hover {
   color:royalblue;
 }
 
+h1 {
+background-image: linear-gradient (purple, pink)
+}
+
+h2 {
+  color:blue
+}
+
 img:hover {
   transition: box-shadow 3 s linear;
   box-shadow: 4 px 5 px 0 0 aquamarine
