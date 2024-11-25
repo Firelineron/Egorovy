@@ -1,17 +1,16 @@
 span:hover {
   transform: scale (0.5);
-  color:royalblue;
+  color:aquamarine;
 }
 
 h1 {
-background-image: linear-gradient (purple, pink)
+  color:purle;
 }
 
 h2 {
-  color:blue
+  color:blue;
 }
 
-img:hover {
-  transition: box-shadow 3 s linear;
-  box-shadow: 4 px 5 px 0 0 aquamarine
+img {
+border: 1 px double red;
 }
