@@ -1,16 +1,16 @@
 span:hover {
-  transform: scale (0.5);
-  color:aquamarine;
+    background-color: red;
+    transition: background-color 3s linear;
 }
 
 h1 {
-  color:purle;
+  color:purple;
 }
 
 h2 {
   color:blue;
 }
 
-img {
-border: 1 px double red;
+img:hover {
+border: 10px double green;
 }
