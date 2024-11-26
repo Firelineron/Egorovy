@@ -3,8 +3,25 @@ span:hover {
     transition: background-color 3s linear;
 }
 
+head {
+background-color:black;
+}
+
+main {
+background-color: aquamarine;
+}
+
+footer {
+    background-color:peru;
+}
+
 h1 {
   color:purple;
+  text-align:center;
+}
+
+h1:hover {
+background-image:linear-gradient(to right, purple, pink);
 }
 
 h2 {
@@ -12,5 +29,5 @@ h2 {
 }
 
 img:hover {
-border: 10px double green;
+border: 10px double darkblue;
 }
