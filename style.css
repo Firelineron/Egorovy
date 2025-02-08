@@ -31,3 +31,17 @@ h2 {
 img:hover {
 border: 10px double darkblue;
 }
+
+img {
+    width: 100px;
+    height: 200px;
+}
+
+.container img {
+opacity: 0.2;
+}
+
+.container img:hover {
+opacity: 1;
+margin: 25px;
+}
