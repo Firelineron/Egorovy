@@ -37,11 +37,11 @@ img {
     height: 200px;
 }
 
-.container img {
+.container {
 opacity: 0.2;
 }
 
-.container img:hover {
+.container:hover {
 opacity: 1;
 margin: 25px;
 }
