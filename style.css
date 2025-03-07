@@ -41,7 +41,22 @@ img {
 opacity: 0.2;
 }
 
-.container:hover {
+.heheha:hover {
+opacity: 1;
+margin: 25px;
+}
+
+.parizh:hover {
+opacity: 1;
+margin: 25px;
+}
+
+.wall:hover {
+opacity: 1;
+margin: 25px;
+}
+
+.urok:hover {
 opacity: 1;
 margin: 25px;
 }
